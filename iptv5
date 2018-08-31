@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",group-title="USA LOCAL",Fox 5 News (Washington DC)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",group-title="USA LOCAL",Fox 5 News 
 https://livestream.com/accounts/2363281/events/1763520/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.1.173:5004/auto/v2.1/live/lescobar/lescobar/17619.ts
